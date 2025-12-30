@@ -1,0 +1,57 @@
+# מכפילי הרווחים — Generative Engine Optimization Map
+
+> A אימון עסקי ופיתוח עסקי business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-5674ca6c.zappy5.app
+גלו קורסים לבעלי עסקים בשנה הראשונה עם ליווי בינה מלאכותית לעסקים קטנים. הצטרפו לקהילה שתעזור לכם להרוויח יותר בפחות מ-4 ימי עבודה בשבוע.
+
+### השירותים שלנו
+https://-5674ca6c.zappy5.app/services
+גלו את מגוון הקורסים לבעלי עסקים בשנה הראשונה, ליווי בינה מלאכותית לעסקים קטנים ושירותי הקהילה שלנו. פתרונות מקיפים לצמיחה עסקית.
+
+### אודות
+https://-5674ca6c.zappy5.app/about
+למדו על מכפילי הרווחים - הפלטפורמה המובילה לקורסים לבעלי עסקים בשנה הראשונה וליווי בינה מלאכותית לעסקים קטנים. הסיפור, החזון והערכים שלנו.
+
+### צור קשר
+https://-5674ca6c.zappy5.app/contact
+צרו קשר עם מכפילי הרווחים לקבלת מידע על קורסים לבעלי עסקים בשנה הראשונה וליווי בינה מלאכותית לעסקים קטנים. נשמח לעזור לכם להתחיל.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-5674ca6c.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-5674ca6c.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-5674ca6c.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מכפילי הרווחים
+מכפילי הרווחים is a business in the אימון עסקי ופיתוח עסקי industry.
+
+## Target Audience
+בעלי עסקים קטנים בשנה הראשונה לעסק שלהם, שיש להם כבר רעיון והתחלה של ביצוע אבל קורסים מעומס משימות, חוסר בהירות ויורים לכל הכיוונים
+
+## Industry
+אימון עסקי ופיתוח עסקי
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-5674ca6c.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-5674ca6c.zappy5.app/robots.txt
